@@ -18,7 +18,7 @@ Download: [iitc-plugin-draw-tool.user.js
 Download: [iitc-plugin-draw-tools-mobile.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-plugin-draw-tools-mobile.user.js)
 
-##### Ingress Guardian Zoom - Show portals at any zoom level
+##### Ingress Zoom - Show portals at any zoom level
 
 Download: [iitc-zoom.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-zoom.user.js)
