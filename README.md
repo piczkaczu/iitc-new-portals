@@ -1,7 +1,7 @@
 # IITC New Portals
 Highlight recently created portals
 
-Download: iitc-new-portals.user.js
+Download: [iitc-new-portals.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-new-portals.user.js)
 
 ![img](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-new-portals.png)
