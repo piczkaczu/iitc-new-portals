@@ -22,3 +22,8 @@ Download: [iitc-plugin-draw-tools-mobile.user.js
 
 Download: [iitc-zoom.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-zoom.user.js)
+
+##### Small Portals - Reduce size of Portal markers
+
+Download: [iitc-small-portals.user.js
+](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/iitc-small-portals.user.js)
