@@ -6,7 +6,7 @@ Download: [iitc-new-portals.user.js
 
 ![img](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-new-portals.png)
 
-### Additional scripts, not required but recommended.
+### Additional scripts, not required but highly recommended.
 
 ##### Draw Tools - draw polygon and mass select portals as Verified
 
