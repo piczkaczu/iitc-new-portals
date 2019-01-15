@@ -8,22 +8,22 @@ Download: [iitc-new-portals.user.js
 
 ### Additional scripts, not required but highly recommended.
 
-##### Draw Tools - draw polygon and mass select portals as Verified
+#### Draw Tools - draw polygon and mass select portals as Verified
 
 Download: [iitc-plugin-draw-tool.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-plugin-draw-tool.user.js)
 
-##### Draw Tools Mobile - for IITC Mobile
+#### Draw Tools Mobile - for IITC Mobile
 
 Download: [iitc-plugin-draw-tools-mobile.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-plugin-draw-tools-mobile.user.js)
 
-##### Ingress Zoom - Show portals at any zoom level
+#### Ingress Zoom - Show portals at any zoom level
 
 Download: [iitc-zoom.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/master/iitc-zoom.user.js)
 
-##### Small Portals - Reduce size of Portal markers
+#### Small Portals - Reduce size of Portal markers
 
 Download: [iitc-small-portals.user.js
 ](https://raw.githubusercontent.com/piczkaczu/iitc-new-portals/iitc-small-portals.user.js)
